@@ -1,0 +1,12 @@
+.container-a-propos{
+    /* background-color: red; */
+    margin: 60px 15% 60px 15%;
+    height: 500px;
+    text-align: justify;
+}
+#cv{
+    float: right;
+}
+#cv p a{
+    color: #FF5733;
+}

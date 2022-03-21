@@ -1,0 +1,19 @@
+.container-accueil
+{
+    .div-left{
+        margin: 40px auto 40px auto;
+        width: 50%;
+        display: flexbox;
+        height: 450px;
+        background-image: url("../../../public/img/img1.png");
+        background-size: cover;
+        text-align: center;
+    }
+
+
+    .div-left p{
+        color: #581845;
+        font-size: 20px;
+        font-style: italic;
+    }
+}
