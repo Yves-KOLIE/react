@@ -20,7 +20,7 @@ function Nav(){
 
 
                 <li className="navbar_item">
-                    <Link className="navbar_link" to="/list-etudiants">CRUD Opeartion</Link>
+                    <Link className="navbar_link" to="/list-etudiants">CRUD Operation</Link>
                 </li>
 
                 <li className="navbar_item">

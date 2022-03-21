@@ -16,11 +16,13 @@ function Footer() {
 
                     <Link className="link-1 menu" to="/accueil">Accueil</Link>
 
-                    <Link to="/services" className="menu">Services</Link>
-
                     <Link to="/a-propos" className="menu">A propos</Link>
 
-                    <Link to="/contact" className="menu">Contact</Link>
+                    <Link to="/list-etudiants" className="menu">CRUD Operation</Link>
+
+                    
+
+                    <Link to="/countries" className="menu">Countries</Link>
 
                 </p>
 
